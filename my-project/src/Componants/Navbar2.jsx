@@ -24,7 +24,7 @@ const Navbar2 = () => {
     <>
       <div className='sm:flex md:fixed md:z-0 md:flex-row sm:flex-col md:justify-between text-black bg-slate-50 md:w-full md:h-auto md:p-10 sm:p-5 '>
         <div className='sm:flex md:flex-row sm:justify-between md:justify-normal '>
-          <img className='w-12 h-w-12' src="./src/assets/4202091logonikeshoessocialsocialmedia-115597_115704.png" alt="nike"/>
+          <img className='w-12 h-w-12' src="./src/assets/4202091logonikeshoessocialsocialmedia-115597_115704.png" alt=""/>
           <div className='flex flex-row gap-5 md:hidden'>
             <p ><LuShoppingCart /></p>
             <p onClick={()=>setIsOpen(!isOpen)} onDoubleClick={()=>setIsOpen(isOpen)}><LuListMinus /></p>

@@ -39,9 +39,9 @@ const Contact = () => {
                <h2 className='text-3xl font-bold '>Our Location</h2>
               </div>
               <div>
-               <p className='flex flex-row gap-3' ><MdMessage />123 Buisiness Avenue,Nike City, Marketing <br/>State 12345 </p>
+               <p className='flex flex-row gap-3' ><MdMessage />123 Buisiness Avenue City, Marketing <br/>State 12345 </p>
                <p className='flex flex-row gap-3'><FaPhoneAlt /> Phone:(123) 456-7890 </p>
-               <p className='flex flex-row gap-3'><FaLocationDot />Email:contact Nike@gmail.com</p>
+               <p className='flex flex-row gap-3'><FaLocationDot />Email:contact Nk@gmail.com</p>
               </div>
 
             </div>
